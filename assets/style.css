@@ -1,0 +1,35 @@
+body {
+    background-image: url('http://animalli.com/wp-content/uploads/2016/09/fishes-school-ocean-sharks-sea-nature-underwater-fish-pond-live-wallpaper-iphone-1600x1080.jpg')
+}
+
+p {
+    font-family: 'Caveat Brush', cursive;
+    font-size: 30px;
+    color: yellow;
+}
+
+.rating{
+	color: yellow;
+	font-size: 20px;
+	font-family: 'Caveat Brush', cursive;
+}
+
+#gifs{
+    padding-top: 20px;
+    width: 80%;
+    margin:auto;
+    text-align: left;    
+}
+
+.button{
+	height:40px;
+	width:150px;
+	font-family: 'Caveat Brush', cursive;
+    font-size: 25px;
+    padding-bottom: 20px;
+    padding-top: 5px;
+	background-color: white;
+    border-radius: 105px;
+    cursor: pointer;
+}
+
